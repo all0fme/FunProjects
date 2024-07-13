@@ -1,0 +1,8 @@
+{
+  "key": "value",
+  "key-n": 101,
+  "key-o": {
+    "hello": "json",
+    "cool": 90
+  }
+}
